@@ -2,13 +2,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0369a1&height=220&section=header&text=Akarsh%20T%20O&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CSE%20Student%20%40%20PES%20University%20%7C%20Deep%20Learning%20%26%20Computer%20Vision&descAlignY=55&descSize=18" width="100%"/>
 
+<br/><br/>
+
 <a href="https://www.linkedin.com/in/akarshto">
   <img src="https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=briefcase&logoColor=black" />
 </a>
 
+<br/><br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Reproducing+peer-reviewed+MRI+research+with+3D+CNNs;Full-stack+dev+%7C+React+%C2%B7+Node.js+%C2%B7+MongoDB;Building+CleanStreet+%7C+Civic-tech+for+real+cities;Exploring+blockchain+%2B+drone+simulation+projects" />
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=akarshto&label=Profile%20Views&color=7dd3fc&style=flat" />
 <img src="https://img.shields.io/github/followers/akarshto?label=Followers&style=flat&color=7dd3fc" />
