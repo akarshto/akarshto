@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Akarsh%20T%20O&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20React%20%7C%20Node.js&descAlignY=60&descSize=17" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Akarsh%20T%20O&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20and%20Spring%20Boot%20%7C%20React%20%7C%20Node.js&descAlignY=60&descSize=17" width="100%" alt="header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2C9CDB&center=true&vCenter=true&width=640&lines=B.Tech+CSE+Graduate+%40+PES+University;Building+full-stack+apps+with+Spring+Boot+%26+React;Ex-Research+Intern+%40+Infosys+SpringBoard;Open+to+entry-level+software+roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2C9CDB&center=true&vCenter=true&width=640&lines=B.Tech+CSE+Graduate+at+PES+University;Building+full-stack+apps+with+Spring+Boot+and+React;Ex-Research+Intern+at+Infosys+SpringBoard;Open+to+entry-level+software+roles)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=akarshto&label=Profile%20Views&color=2c5364&style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-akarshto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akarshto)
@@ -34,7 +34,7 @@ I'm a **B.Tech CSE graduate from PES University (2026)** who enjoys building ful
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frameworks & Backend**
+**Frameworks and Backend**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
@@ -129,7 +129,7 @@ A cross-platform snake game in C for Windows (Win32 Console API) and Linux/macOS
 
 | Degree | Institution | Year |
 |---|---|---|
-| B.Tech, Computer Science & Engineering | PES University | 2022 – 2026 |
+| B.Tech, Computer Science and Engineering | PES University | 2022 – 2026 |
 | Higher Secondary | PACE UM PU College | 2020 – 2022 |
 | Secondary | Amber Valley Residential School | 2017 – 2020 |
 
